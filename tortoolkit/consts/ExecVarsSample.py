@@ -5,9 +5,9 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
+        API_HASH = "196287a591e529f96f41a6efe9beaf0a"
         API_ID =8190493
-        BOT_TOKEN = "196287a591e529f96f41a6efe9beaf0a"
+        BOT_TOKEN = "5217171974:AAHn6eb8GpSQ1K7UiRQqr2N8Cwm5XyfflZg"
         BASE_URL_OF_BOT = "https://t.me/cvmesxbot"
 
         # Edit the server port if you want to keep it default though.
